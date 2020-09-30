@@ -2,5 +2,5 @@
 ### Express & Mongo
 
 `npm install`
-`npm start`
-Pensez à bien raccorder votre BD
+\n `npm start`
+\n Pensez à bien raccorder votre BD
